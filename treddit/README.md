@@ -2,7 +2,7 @@
 
 ### Anshu Dwibhashi and Andrew Krier
 
-#### Key Features and Functions
+#### Key Features
 
 * Create a trail in real time using your current location
 * Name trails and give it a description
