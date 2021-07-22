@@ -1,0 +1,6 @@
+framework module Pods_treddit {
+  umbrella header "Pods-treddit-umbrella.h"
+
+  export *
+  module * { export * }
+}
